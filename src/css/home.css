@@ -52,8 +52,13 @@ body {
 .logo-image {
   margin: 0;
 }
-.logo-image img {
-  max-width: 100%;
+.logo-image h3 {
+  font-size: 28px;
+  color: white;
+}
+.logo-image h3 span{
+  font-size: 28px;
+  color: #ff458b;
 }
 
 .sidebarPlaylist {
